@@ -1,7 +1,6 @@
 # Circadian Clock Gene Expression Analysis in Hepatocellular Carcinoma
 
-**Author:** Abhishek Shandilya, B.Tech Computer Science and Engineering (2nd Year), VIT Bhopal University  
-**Duration:** February 2026 – April 2026  
+**Author:** Abhishek Shandilya, B.Tech Computer Science and Engineering (CSE'28), VIT Bhopal University    
 **Type:** Independent Research Project
 
 ---
@@ -89,7 +88,7 @@ The data shows a two-directional collapse of the circadian clock in HCC. The tum
 
 ## Background
 
-This project was inspired by a research problem listed in the SRIP (Summer Research Internship Program) at IIT Gandhinagar. I was not selected for the formal program but completed the analysis independently. All data is publicly available through TCGA. All code and analysis was written and executed independently.
+This project was inspired by a research problem listed in the SRIP (Summer Research Internship Program) at IIT Gandhinagar. All data is publicly available through TCGA. All code and analysis was written and executed independently.
 
 ---
 
