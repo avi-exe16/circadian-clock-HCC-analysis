@@ -84,11 +84,7 @@ The circadian clock is the internal 24-hour timing system that controls cell div
 
 The data shows a two-directional collapse of the circadian clock in HCC. The tumor-suppressive components of the clock (PER1, PER2, PER3, RORA) are silenced while the pro-proliferative components (TIMELESS, CSNK1E, CSNK1D) are overactivated. TIMELESS, which controls DNA replication timing, is 2.03x higher in tumor tissue with an adjusted p-value of 2.49e-20 — the strongest signal in the dataset.
 
----
 
-## Background
-
-This project was inspired by a research problem listed in the SRIP (Summer Research Internship Program) at IIT Gandhinagar. All data is publicly available through TCGA. All code and analysis was written and executed independently.
 
 ---
 
